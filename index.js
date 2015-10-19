@@ -1,0 +1,1 @@
+module.exports = require('./lib/cwd_config.js');

@@ -1,0 +1,28 @@
+{
+  "name": "cwd-config",
+  "version": "1.0.0",
+  "description": "A node configuration utility based on the current working directory of the process",
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctarrington/node-cwd-config.git"
+  },
+  "keywords": [
+    "node",
+    "config",
+    "cwd"
+  ],
+  "author": "CT Arrington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctarrington/node-cwd-config/issues"
+  },
+  "homepage": "https://github.com/ctarrington/node-cwd-config#readme"
+}
