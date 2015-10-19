@@ -1,6 +1,6 @@
 {
   "name": "cwd-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A node configuration utility based on the current working directory of the process",
   "main": "index.js",
   "devDependencies": {
